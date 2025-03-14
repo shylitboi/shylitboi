@@ -5,9 +5,9 @@ SCM Data Analyst
 ---
 ▪️ International Logistics, CAU
 
-▪️  CAU SCM Analysis Society
+▪️  CAU SCM Analysis Institute
 
-▪️ CAU Data Analysis Society, DArt-B
+▪️ CAU Data Analysis Institute, DArt-B
 
 🔗 Link
 ---
