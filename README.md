@@ -1,16 +1,24 @@
-## Hi there 👋
+# ShylitBoi 🧑🏻‍💻
+SCM Data Analyst
 
-<!--
-**shylitboi/shylitboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 Profile
+---
+▪️ International Logistics, CAU
 
-Here are some ideas to get you started:
+▪️  CAU SCM Analysis Society
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+▪️ CAU Data Analysis Society, DArt-B
+
+🔗 Link
+---
+📩 Email : rkdekgns82@gmail.com
+
+📷 Insta : shylitboi
+
+🌐 LinkedIn : Dahoon Kang
+
+🚀 Skills
+---
+
+
+
