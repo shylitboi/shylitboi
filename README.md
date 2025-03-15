@@ -8,7 +8,7 @@
 
 ▪️ CAU Data Analysis Institute, DArt-B
 
-![shylitBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=transparent_icons=true)
+
 
 🔗 Link
 ---
@@ -22,4 +22,6 @@
 ---
 
 
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<div align="center">
+![shylitBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=shylitboi&theme=dark&show_icons=true)
