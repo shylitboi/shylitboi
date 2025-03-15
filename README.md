@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=auto&height=200&section=header&text=shylitBoi's%20Hub&fontSize=90)
 
 👾 Profile
 ---
