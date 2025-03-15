@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&height=250&section=header&text=shylitBoi's%20Hub&fontSize=90&color=auto)
-</div>
+
 🧑🏻‍💻 Profile
 ---
 ▪️ International Logistics, CAU
@@ -16,9 +16,6 @@
 📷 Insta : shylitboi
 
 🌐 LinkedIn : Dahoon Kang
-
-🚀 Skills
----
 
 
 <h3 align="center">👾 My Github Stats 👾</h3>
