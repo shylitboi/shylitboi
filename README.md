@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&height=250&section=header&text=shylitBoi's%20Hub&fontSize=90&color=auto)
-
+</div>
 🧑🏻‍💻 Profile
 ---
 ▪️ International Logistics, CAU
@@ -8,7 +8,7 @@
 
 ▪️ CAU Data Analysis Institute, DArt-B
 
-</div>
+
 🔗 Link
 ---
 📩 Email : rkdekgns82@gmail.com
